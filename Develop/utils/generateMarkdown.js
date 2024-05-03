@@ -37,6 +37,20 @@ function renderLicenseSection(license) {
     return `## License
   `;
   }
+  if (license === 'Apache 2.0') {
+    return `## License
+  `;
+  }
+  if (license === 'GPL 3.0') {
+    return `## License
+  `;
+  }
+  if (license === 'BSD 3') {
+    return `## License
+  `;
+  }
+  return '';
+}
 
   // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
@@ -79,7 +93,7 @@ function renderLicenseSection(license) {
   ## Questions
 
   ${data.questions}
-  
+
   ## Contact
 
   * GitHub: ${data.github}
