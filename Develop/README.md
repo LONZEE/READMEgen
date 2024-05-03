@@ -4,7 +4,7 @@
 
   ## Description
 
-  Generates READm text through node
+  Generates READMe text through node
 
   ## Table of Contents
 
@@ -18,25 +18,25 @@
   * 
   ## Installation
 
-  step 1. run npm i for dependencies sept 2. run node index.js step 3 answer questions
+  step 1 run npm i step 2 run node index.js step 3 answer questions
 
   ## Usage
 
-  Have problems creating a READMe file? this is a quick way to make one for other projects
+  Have problems creating a README file? This is a quick way to make one for future projects
 
   ## License
   
   [MIT License](https://opensource.org/licenses/MIT)
   ## Contributing
 
-  Kelton, a personal friend, helped me with node 
+  Kelton, a personal friend, helped me with node
   ## Tests
 
-  run node index.js so you can test 
+  run node index.js so you can test
 
   ## Questions
 
-  Contact me @  https://github.com/LONZEE 
+  Contact me at therock@gmail.com
 
   ## Contact
 
